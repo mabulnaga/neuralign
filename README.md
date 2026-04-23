@@ -1,7 +1,7 @@
 # NeurAlign: Unified Brain Surface and Volume Registration (ICLR 2026)
 ### [Project Page](https://people.csail.mit.edu/abulnaga/neuralign) | [Paper](https://arxiv.org/abs/2512.19928) | [OpenReview](https://openreview.net/forum?id=7FvUJu63zq)
 
-![Example result on MRI image and surface](https://people.csail.mit.edu/abulnaga/neuralign/teaser.png)
+![Example result on MRI image and surface](https://github.com/mabulnaga/neuralign/blob/main/teaser_result.png)
 
 NeurAlign is an image registration model that unifies brain surface and volume registration. NeurAlign aligns both cortical and subcortical structures in 3D space without requiring input meshes. This repository contains code to run inference (registration) on your data. Training code coming soon. 
 
