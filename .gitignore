@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+*.egg-info/
+
+# Outputs
+results/
+
+# Model weights (download separately — see models/README.md)
+models/*.pt
+
+# Data
+data/
+
+# OS
+.DS_Store
